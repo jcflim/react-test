@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+h3.r {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+.s {
+  min-height: 80px;
+}
+
+.th {
+  background-color: #fff;
+  float: left;
+  overflow: hidden;
+  margin-top: 4px;
+  position: relative;
+}
+
+.th img {
+  height:80px;width:52px
+}
+
+.c {
+  height:auto;
+  margin-left:61px;
+  font-size: 12px;
+}
+
+.dr {
+  height: 18px;
+  line-height: 16px;
+}
